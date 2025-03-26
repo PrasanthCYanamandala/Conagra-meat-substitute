@@ -1,6 +1,6 @@
-# Conagra Brands Market Analysis – BUAN 6337.003
+# Conagra Brands Market Analysis
 
-This repository contains an in-depth data analytics project conducted by Group 6 for the BUAN 6337.003 course. The project focuses on **Conagra Brands**, specifically their **Gardein** product line in the U.S. frozen meat substitutes market.
+This repository contains an in-depth data analytics project for **Predictive Anlaytics** course. The project focuses on **Conagra Brands**, specifically their **Gardein** product line in the U.S. frozen meat substitutes market.
 
 ## 📊 Project Summary
 
@@ -44,14 +44,6 @@ The frozen meat substitutes market is rapidly evolving, and Gardein — despite 
 - Regional merchandising heatmaps
 - Promotion-price analysis
 - Attribute-based product performance review
-
-## 👥 Team – Group 6
-
-- Tin Diep  
-- Krishna Chaithanya Reddy Kapu Ramakrishna  
-- Santhosh Sekar  
-- Niral Devang Shah  
-- Prasanth Chowdary Yanamandala
 
 ---
 
