@@ -1,0 +1,33 @@
+Region ,unit sales,Brand
+California,0,Beyond
+Great Lakes,79,Beyond
+Mid-south,141,Beyond
+Northeast,36,Beyond
+Plains,70,Beyond
+South central,125,Beyond
+Southeast,87,Beyond
+West,101,Beyond
+California,0,MorningStar
+Great Lakes,44,MorningStar
+Mid-south,45,MorningStar
+Northeast,19,MorningStar
+Plains,29,MorningStar
+South central,57,MorningStar
+Southeast,26,MorningStar
+West,59,MorningStar
+California,0,Gardein
+Great Lakes,13,Gardein
+Mid-south,28,Gardein
+Northeast,25,Gardein
+Plains,0,Gardein
+South central,12,Gardein
+Southeast,0,Gardein
+West,0,Gardein
+California,0,All
+Great Lakes,4,All
+Mid-south,13,All
+Northeast,10,All
+Plains,3,All
+South central,10,All
+Southeast,-19,All
+West,-4,All

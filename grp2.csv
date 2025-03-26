@@ -1,0 +1,197 @@
+state,brand,Unit sales,region 
+CA,Beyond,0,California
+MI,Beyond,79,Great Lakes
+WI,Beyond,79,Great Lakes
+MN,Beyond,79,Great Lakes
+IL,Beyond,79,Great Lakes
+IN,Beyond,79,Great Lakes
+OH,Beyond,79,Great Lakes
+PA,Beyond,79,Great Lakes
+NY,Beyond,79,Great Lakes
+VA,Beyond,141,Mid south
+MD,Beyond,141,Mid south
+NC,Beyond,141,Mid south
+SC,Beyond,141,Mid south
+TN,Beyond,141,Mid south
+WV,Beyond,141,Mid south
+ME,Beyond,36,North east
+NJ,Beyond,36,North east
+VT,Beyond,36,North east
+MA,Beyond,36,North east
+RI,Beyond,36,North east
+CT,Beyond,36,North east
+NH,Beyond,36,North east
+MT,Beyond,70,Plains
+ND,Beyond,70,Plains
+SD,Beyond,70,Plains
+NE,Beyond,70,Plains
+KS,Beyond,70,Plains
+CO,Beyond,70,Plains
+OK,Beyond,70,Plains
+TX,Beyond,70,Plains
+NM,Beyond,70,Plains
+MO,Beyond,70,Plains
+IA,Beyond,70,Plains
+AL,Beyond,125,South central
+KY,Beyond,125,South central
+MS,Beyond,125,South central
+AR,Beyond,125,South central
+LA,Beyond,125,South central
+FL,Beyond,87,South east
+GA,Beyond,87,South east
+VI,Beyond,87,South east
+PR,Beyond,87,South east
+AZ,Beyond,101,West
+ID,Beyond,101,West
+NV,Beyond,101,West
+OR,Beyond,101,West
+UT,Beyond,101,West
+WA,Beyond,101,West
+WY,Beyond,101,West
+CA,MorningStar,0,California
+MI,MorningStar,44,Great Lakes
+WI,MorningStar,44,Great Lakes
+MN,MorningStar,44,Great Lakes
+IL,MorningStar,44,Great Lakes
+IN,MorningStar,44,Great Lakes
+OH,MorningStar,44,Great Lakes
+PA,MorningStar,44,Great Lakes
+NY,MorningStar,44,Great Lakes
+VA,MorningStar,45,Mid south
+MD,MorningStar,45,Mid south
+NC,MorningStar,45,Mid south
+SC,MorningStar,45,Mid south
+TN,MorningStar,45,Mid south
+WV,MorningStar,45,Mid south
+ME,MorningStar,19,North east
+NJ,MorningStar,19,North east
+VT,MorningStar,19,North east
+MA,MorningStar,19,North east
+RI,MorningStar,19,North east
+CT,MorningStar,19,North east
+NH,MorningStar,19,North east
+MT,MorningStar,29,Plains
+ND,MorningStar,29,Plains
+SD,MorningStar,29,Plains
+NE,MorningStar,29,Plains
+KS,MorningStar,29,Plains
+CO,MorningStar,29,Plains
+OK,MorningStar,29,Plains
+TX,MorningStar,29,Plains
+NM,MorningStar,29,Plains
+MO,MorningStar,29,Plains
+IA,MorningStar,29,Plains
+AL,MorningStar,57,South central
+KY,MorningStar,57,South central
+MS,MorningStar,57,South central
+AR,MorningStar,57,South central
+LA,MorningStar,57,South central
+FL,MorningStar,26,South east
+GA,MorningStar,26,South east
+VI,MorningStar,26,South east
+PR,MorningStar,26,South east
+AZ,MorningStar,59,West
+ID,MorningStar,59,West
+NV,MorningStar,59,West
+OR,MorningStar,59,West
+UT,MorningStar,59,West
+WA,MorningStar,59,West
+WY,MorningStar,59,West
+CA,Gardein,0,California
+MI,Gardein,13,Great Lakes
+WI,Gardein,13,Great Lakes
+MN,Gardein,13,Great Lakes
+IL,Gardein,13,Great Lakes
+IN,Gardein,13,Great Lakes
+OH,Gardein,13,Great Lakes
+PA,Gardein,13,Great Lakes
+NY,Gardein,13,Great Lakes
+VA,Gardein,28,Mid south
+MD,Gardein,28,Mid south
+NC,Gardein,28,Mid south
+SC,Gardein,28,Mid south
+TN,Gardein,28,Mid south
+WV,Gardein,28,Mid south
+ME,Gardein,25,North east
+NJ,Gardein,25,North east
+VT,Gardein,25,North east
+MA,Gardein,25,North east
+RI,Gardein,25,North east
+CT,Gardein,25,North east
+NH,Gardein,25,North east
+MT,Gardein,0,Plains
+ND,Gardein,0,Plains
+SD,Gardein,0,Plains
+NE,Gardein,0,Plains
+KS,Gardein,0,Plains
+CO,Gardein,0,Plains
+OK,Gardein,0,Plains
+TX,Gardein,0,Plains
+NM,Gardein,0,Plains
+MO,Gardein,0,Plains
+IA,Gardein,0,Plains
+AL,Gardein,12,South central
+KY,Gardein,12,South central
+MS,Gardein,12,South central
+AR,Gardein,12,South central
+LA,Gardein,12,South central
+FL,Gardein,0,South east
+GA,Gardein,0,South east
+VI,Gardein,0,South east
+PR,Gardein,0,South east
+AZ,Gardein,0,West
+ID,Gardein,0,West
+NV,Gardein,0,West
+OR,Gardein,0,West
+UT,Gardein,0,West
+WA,Gardein,0,West
+WY,Gardein,0,West
+CA,All,0,California
+MI,All,4,Great Lakes
+WI,All,4,Great Lakes
+MN,All,4,Great Lakes
+IL,All,4,Great Lakes
+IN,All,4,Great Lakes
+OH,All,4,Great Lakes
+PA,All,4,Great Lakes
+NY,All,4,Great Lakes
+VA,All,13,Mid south
+MD,All,13,Mid south
+NC,All,13,Mid south
+SC,All,13,Mid south
+TN,All,13,Mid south
+WV,All,13,Mid south
+ME,All,10,North east
+NJ,All,10,North east
+VT,All,10,North east
+MA,All,10,North east
+RI,All,10,North east
+CT,All,10,North east
+NH,All,10,North east
+MT,All,3,Plains
+ND,All,3,Plains
+SD,All,3,Plains
+NE,All,3,Plains
+KS,All,3,Plains
+CO,All,3,Plains
+OK,All,3,Plains
+TX,All,3,Plains
+NM,All,3,Plains
+MO,All,3,Plains
+IA,All,3,Plains
+AL,All,10,South central
+KY,All,10,South central
+MS,All,10,South central
+AR,All,10,South central
+LA,All,10,South central
+FL,All,-19,South east
+GA,All,-19,South east
+VI,All,-19,South east
+PR,All,-19,South east
+AZ,All,-4,West
+ID,All,-4,West
+NV,All,-4,West
+OR,All,-4,West
+UT,All,-4,West
+WA,All,-4,West
+WY,All,-4,West
